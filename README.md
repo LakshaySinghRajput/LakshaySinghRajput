@@ -6,7 +6,7 @@ With a strong foundation in statistics and AI, I aim to deliver impactful soluti
 
 ## Reach me on:
 
-- [My profile on LinkedIn](https://www.linkedin.com/in/lakshay-singh-a750732b3/) 👜   
+- [My profile on LinkedIn](https://www.linkedin.com/in/lakshay-singh-rajput-a750732b3/) 👜   
 - [My contributions in Data Science on Kaggle](https://www.kaggle.com/lakshaysinghrajput) 📊  
 - [My updates on Twitter](https://x.com/Lakshhsingh) 🐦  
 - [My freelancing profile on Upwork](https://www.upwork.com/freelancers/~0179618a04fb93e972?viewMode=1) 💼  
