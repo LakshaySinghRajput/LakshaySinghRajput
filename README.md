@@ -1,8 +1,5 @@
 Hi there! 👋  
-I'm Lakshya Singh Rajput, a Machine Learning enthusiast passionate about solving business problems with data.  
-I excel in analyzing data to uncover patterns and trends, enabling data-driven decisions.  
-I focus on building effective ML models and extracting meaningful insights to drive success.  
-With a strong foundation in statistics and AI, I aim to deliver impactful solutions.  
+I'm Lakshya Singh Rajput, a passionate Machine Learning enthusiast who thrives on transforming raw data into actionable insights. With expertise in data analysis, pattern recognition, and model building, I craft intelligent solutions that drive business growth. Backed by a strong foundation in statistics and AI, I focus on leveraging data-driven strategies to solve real-world problems effectively.
 
 ## Reach me on:
 
